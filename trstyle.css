@@ -1,0 +1,18 @@
+#start{
+    text-align:center;
+}
+
+.line {
+    height: 1px;
+    background: rgb(114, 113, 113);
+}
+
+.para {
+    font-family: serif;
+    font-style: oblique;
+}
+
+#link {
+    text-align: center;
+    font-style: initial;
+}
